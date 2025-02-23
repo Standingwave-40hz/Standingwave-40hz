@@ -26,10 +26,5 @@ Feel free to check out my repositories and reach out if you'd like to collaborat
 I love connecting with fellow creatives and tech enthusiasts. Here are some ways to reach me:
 - 📧 Email: caley@wolftone.org
 
-## GitHub Stats
-
-[![Caley's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
-
----
 
 *I'm always learning and exploring new horizons at the intersection of audio and technology. Thanks for stopping by and feel free to star or fork any of my projects!*
