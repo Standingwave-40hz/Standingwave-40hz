@@ -20,4 +20,4 @@ I work across audio, programming, and studio operation, building projects that a
 
 ## Contact
 
-- **Email:** caley@wolftone.org
+- **Email:** caleywekelly@gmail.com
