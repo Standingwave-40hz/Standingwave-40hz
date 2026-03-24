@@ -1,30 +1,23 @@
-# Hi there, I'm Caley! 🎵
+# Hi, I'm Caley
 
-I'm a passionate musician, audio engineer, sound artist, and computer programming student. I love blending art with technology to create immersive soundscapes and innovative digital experiences.
+I'm an audio artist, programmer, and recording studio operator exploring the space between sound, software, and creative technology. My work combines artistic experimentation with practical development, from spatial audio and reactive sound design to AI-powered applications and studio-based production.
 
 ## About Me
 
-- 🎶 **Musician & Sound Artist:** I explore the creative side of sound, experimenting with diverse musical styles and auditory textures.
-- 🎛 **Audio Engineer:** With a knack for mixing, mastering, and production, I ensure every project sounds its best.
-- 💻 **Programming Student:** I'm diving deep into coding, building projects that merge music, audio processing, and creative technology.
-- 🔍 **Interests:** Audio processing, digital signal processing (DSP), creative coding, and experimental music production.
+I work across audio, programming, and studio operation, building projects that are both expressive and functional. I'm especially interested in systems that generate, shape, or organize sound in meaningful ways.
 
-## Projects
+## Current Projects
 
-I'm currently working on projects that fuse music and technology. Here are a few highlights:
--A Reactive synthesizer that responds to it's envirement to create sound textures.
-
-Feel free to check out my repositories and reach out if you'd like to collaborate or share feedback!
+- **AI-powered meal planning Android app**
+- **Wolftone.org**
+- **Reactive audio generation**
+- **Swell Dispersion: Ambisonic Journey**
 
 ## Tech Stack
 
-- **Languages:** Python, JavaScript, Java, HTML, CSS, SQL.
-- **Audio Tools:** Ableton Live, Pro Tools, Nuendo/Cubase, Wwise
+- **Languages:** Java, Python, SQL
+- **Areas of Interest:** AI workflows, audio technology, spatial sound, creative software
 
-## Connect with Me
+## Contact
 
-I love connecting with fellow creatives and tech enthusiasts. Here are some ways to reach me:
-- 📧 Email: caley@wolftone.org
-
-
-*I'm always learning and exploring new horizons at the intersection of audio and technology. Thanks for stopping by and feel free to star or fork any of my projects!*
+- **Email:** caley@wolftone.org
